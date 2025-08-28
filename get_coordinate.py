@@ -115,8 +115,8 @@ PUBLIC_API_KEY = "1rTRcPcrgRX4bckCMPyIIgsMgxqzwZwAKsqCjJe74xrEwdc2rQRZgHAZ60aJdh
 crs = "epsg:4326"
 
 # CSV 파일에서 주소 읽기
-input_csv = "매출필지/테스트_제주.csv"  # CSV 파일 경로
-output_file = "매출필지/테스트_제주필지.geojson"  # 결과 GeoJSON 파일 경로
+input_csv = "필지주소.csv"  # CSV 파일 경로
+output_file = "result/화성_테스트_필지.geojson"  # 결과 GeoJSON 파일 경로
 
 # 주소 데이터 불러오기
 addresses_df = pd.read_csv(input_csv)
