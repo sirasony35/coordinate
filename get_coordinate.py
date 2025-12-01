@@ -116,7 +116,7 @@ crs = "epsg:4326"
 
 # CSV 파일에서 주소 읽기
 input_csv = "필지주소.csv"  # CSV 파일 경로
-output_file = "result/화성_테스트_필지.geojson"  # 결과 GeoJSON 파일 경로
+output_file = "진천_매출필지.geojson"  # 결과 GeoJSON 파일 경로
 
 # 주소 데이터 불러오기
 addresses_df = pd.read_csv(input_csv)
