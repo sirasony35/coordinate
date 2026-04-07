@@ -108,7 +108,7 @@ def save_to_geojson(data, output_file):
 
 
 # V-world API 키 설정
-VWORLD_API_KEY = "D4E1B616-546F-3016-8B28-9C76E4724FC4"
+VWORLD_API_KEY = "7BD97874-9E75-3FEA-BD6B-53E8BC59B5B0"
 PUBLIC_API_KEY = "1rTRcPcrgRX4bckCMPyIIgsMgxqzwZwAKsqCjJe74xrEwdc2rQRZgHAZ60aJdhT6313RnB8znsO2jJONz+ltow=="
 
 #좌표 세팅
