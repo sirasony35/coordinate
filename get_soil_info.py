@@ -6,7 +6,7 @@ def test_soil_api():
     # ==========================================
     # 1. 테스트 설정 (API 키 및 주소 코드)
     # ==========================================
-    API_KEY = "1rTRcPcrgRX4bckCMPyIIgsMgxqzwZwAKsqCjJe74xrEwdc2rQRZgHAZ60aJdhT6313RnB8znsO2jJONz%2Bltow%3D%3D"
+    API_KEY = "1rTRcPcrgRX4bckCMPyIIgsMgxqzwZwAKsqCjJe74xrEwdc2rQRZgHAZ60aJdhT6313RnB8znsO2jJONz+ltow=="
 
     # 테스트할 연천군 전곡읍 은대리 1169번지의 예시
     TEST_PNU_CD = "4180025322111690000"  # 19자리 지번코드 (특정 1개 필지 테스트용)
